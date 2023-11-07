@@ -1,0 +1,28 @@
+@model List<Projeto_Integrador.Models.Jogo>
+
+<h1>Jogos</h1>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Descrição</th>
+        <th>Imagem</th>
+        <th>Ações</th>
+    </tr>
+    @foreach (var jogo in Model)
+    {
+        <tr>
+            <td>@jogo.Id</td>
+            <td>@jogo.Nome</td>
+            <td>@jogo.Descricao</td>
+            <td><img src="https://jogandoagora.com.br/wp-content/uploads/2015/02/Project-Zomboid-capa1-808x454.png" alt="@jogo.Nome" style="width: 100px;"></td>
+            <td>
+                <a href="@Url.Action("Edit", "Jogos", new { id = jogo.Id })">Editar</a> |
+                <a href="@Url.Action("Delete", "Jogos", new { id = jogo.Id })">Excluir</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<a href="@Url.Action("Create", "Jogos")">Adicionar novo jogo</a>

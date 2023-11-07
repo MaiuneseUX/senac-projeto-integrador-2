@@ -1,0 +1,114 @@
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.exe
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.deps.json
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.json
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.dev.json
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.pdb
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfoInputs.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfo.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.input.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.output.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorCoreGenerate.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.Manifest.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.pdb
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.genruntimeconfig.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CopyComplete
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Jogos.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Index.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Edit.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Create.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Delete.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Login.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.AssemblyReference.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.Pack.cache
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Projeto Integrador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Projeto Integrador.props
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Projeto Integrador.props
+C:\Users\cauag\Documents\SENAC\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Projeto Integrador.props
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.exe
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.deps.json
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.json
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.dev.json
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.pdb
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.AssemblyReference.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfoInputs.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfo.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.Manifest.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.Pack.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Projeto Integrador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Projeto Integrador.props
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Projeto Integrador.props
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Projeto Integrador.props
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.input.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.output.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorCoreGenerate.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Create.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Delete.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Edit.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Index.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Jogos\Jogos.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Login.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cache
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cs
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CopyComplete
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.dll
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.pdb
+C:\Users\cauag\Documents\SENAC\Modulo 1\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+@model Projeto_Integrador.Models.Jogo
+
+<h1>Excluir Jogo</h1>
+
+<p>Você tem certeza que deseja excluir o jogo: @Model.Nome?</p>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Excluir</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+</form>
